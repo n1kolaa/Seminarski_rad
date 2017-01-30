@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_78020668945538b3781e911cd65f822426e75424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_e2ab0a16556b87272198306813597e0c3f10ae3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_1cc268980cd99260996b473442b134157fb08e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_382a5b88c1305c97df99c0fda9fa374271511638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3b82baa13e6f6d0850e77e63d10819f61fe32766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_b713784f27cb9f3f87a07893b1859c3f4045c239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_6cff4034210b5cc7d08d2c95f41eb07926b572ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_b431b3c6366bfa1c9352060cbbc0ba2dca3327e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_502f25a0a146c0fc3bb29e2cab2087026bf1c1df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_3b53c90a2cdc7a49cddb6668c6591b4925dcba62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_11b7fb05edfd8eb19578c2bcb369d58c47b8cfa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_c38e234f16e8fef079f77874af83566c80753ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/n1kola/Primer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/n1kola/Primer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_792e6673566fea01190ea43bbf7b68c20e2eaf55.jar" />
+    </item>
+
+</items>
